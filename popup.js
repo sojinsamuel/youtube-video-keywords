@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyA8EF49WqMQkWAT2fYMT_yvZ8jDmnLaGWI";
+const apiKey = "API_KEY";
 
 chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
   const url = tabs[0].url;
