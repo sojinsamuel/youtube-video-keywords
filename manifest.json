@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Youtube Keywords",
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": "youtube-keywords.png"
+  },
+  "permissions": [
+      "tabs"
+  ]
+}
